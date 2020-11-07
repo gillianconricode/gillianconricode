@@ -1,16 +1,14 @@
-### Hi there 👋
+cis1051_preposal
+Preproposal
 
-<!--
-**gillianconricode/gillianconricode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What idea(s) do you have for your final project?
+Rock, Paper, Scissor Game
+Address Book
+Hangman
+Email Slicer
 
-Here are some ideas to get you started:
+If you plan to collaborate with one or two classmates, what are their names?
+Shree Mahida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Do you have any questions of your own?
+no questions as of right now
